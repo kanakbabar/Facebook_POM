@@ -9,6 +9,8 @@ import java.io.FileNotFoundException;
 
 public class LoginPage extends TestBase
 {
+    // adding a comment here
+
     @FindBy(name = "email")
     WebElement email;
 
