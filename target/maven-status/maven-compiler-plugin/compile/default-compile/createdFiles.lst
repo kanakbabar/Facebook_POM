@@ -1,0 +1,6 @@
+com\fb\qa\util\testutil.class
+com\fb\qa\util\WebEventListener.class
+com\fb\qa\pages\HomePage.class
+com\fb\qa\pages\LoginPage.class
+com\fb\qa\pages\SignUpPage.class
+com\fb\qa\base\TestBase.class

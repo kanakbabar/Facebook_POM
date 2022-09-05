@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-05T11:48:38 IST" name="Command line suite" finished-at="2022-09-05T11:49:34 IST" duration-ms="55643">
+    <groups>
+    </groups>
+    <test started-at="2022-09-05T11:48:38 IST" name="Command line test" finished-at="2022-09-05T11:49:34 IST" duration-ms="55643">
+      <class name="com.fb.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:48:39 IST" name="setUp" finished-at="2022-09-05T11:48:45 IST" duration-ms="5749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="multipleLoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:48:45 IST" name="multipleLoginTest" data-provider="getLoginTestData" finished-at="2022-09-05T11:48:48 IST" duration-ms="3190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vaibhavbohari@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vaibhav1@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:48:48 IST" name="tearDown" finished-at="2022-09-05T11:48:49 IST" duration-ms="804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:48:49 IST" name="setUp" finished-at="2022-09-05T11:48:52 IST" duration-ms="3327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="multipleLoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:48:52 IST" name="multipleLoginTest" data-provider="getLoginTestData" finished-at="2022-09-05T11:48:55 IST" duration-ms="3154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vaibhavbohari@1997gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vaibhav2@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:48:55 IST" name="tearDown" finished-at="2022-09-05T11:48:56 IST" duration-ms="772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:48:56 IST" name="setUp" finished-at="2022-09-05T11:48:59 IST" duration-ms="3104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="multipleLoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:48:59 IST" name="multipleLoginTest" data-provider="getLoginTestData" finished-at="2022-09-05T11:49:02 IST" duration-ms="3165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vaibhav@1451gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vaibhav589@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:49:02 IST" name="tearDown" finished-at="2022-09-05T11:49:03 IST" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:49:03 IST" name="setUp" finished-at="2022-09-05T11:49:06 IST" duration-ms="3301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="multipleLoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:49:06 IST" name="multipleLoginTest" data-provider="getLoginTestData" finished-at="2022-09-05T11:49:10 IST" duration-ms="3161" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kanakbabar999@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kan@12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:49:10 IST" name="tearDown" finished-at="2022-09-05T11:49:10 IST" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:49:10 IST" name="setUp" finished-at="2022-09-05T11:49:14 IST" duration-ms="3672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginPageTitleTest()[pri:1, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:49:14 IST" name="LoginPageTitleTest" finished-at="2022-09-05T11:49:14 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:49:14 IST" name="tearDown" finished-at="2022-09-05T11:49:15 IST" duration-ms="759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:49:15 IST" name="setUp" finished-at="2022-09-05T11:49:18 IST" duration-ms="3495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="FB_logoTest()[pri:2, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:49:18 IST" name="FB_logoTest" finished-at="2022-09-05T11:49:18 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FB_logoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:49:18 IST" name="tearDown" finished-at="2022-09-05T11:49:19 IST" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:49:19 IST" name="setUp" finished-at="2022-09-05T11:49:23 IST" duration-ms="3844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:3, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:49:23 IST" name="loginTest" finished-at="2022-09-05T11:49:23 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.testcases.LoginPageTest@61710c6]" started-at="2022-09-05T11:49:23 IST" name="tearDown" finished-at="2022-09-05T11:49:24 IST" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.fb.qa.testcases.LoginPageTest -->
+      <class name="com.fb.qa.testcases.SignUpTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.fb.qa.testcases.SignUpTest@2ca923bb]" started-at="2022-09-05T11:49:24 IST" name="setUp" finished-at="2022-09-05T11:49:27 IST" duration-ms="3211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="signUpPageTitleTest()[pri:1, instance:com.fb.qa.testcases.SignUpTest@2ca923bb]" started-at="2022-09-05T11:49:27 IST" name="signUpPageTitleTest" finished-at="2022-09-05T11:49:27 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.testcases.SignUpTest@2ca923bb]" started-at="2022-09-05T11:49:27 IST" name="tearDown" finished-at="2022-09-05T11:49:28 IST" duration-ms="745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.fb.qa.testcases.SignUpTest@2ca923bb]" started-at="2022-09-05T11:49:28 IST" name="setUp" finished-at="2022-09-05T11:49:31 IST" duration-ms="3693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SignUpTest()[pri:2, instance:com.fb.qa.testcases.SignUpTest@2ca923bb]" started-at="2022-09-05T11:49:32 IST" name="SignUpTest" finished-at="2022-09-05T11:49:33 IST" duration-ms="1824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.testcases.SignUpTest@2ca923bb]" started-at="2022-09-05T11:49:33 IST" name="tearDown" finished-at="2022-09-05T11:49:34 IST" duration-ms="735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.fb.qa.testcases.SignUpTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
